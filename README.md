@@ -2,7 +2,7 @@
 - 👀 I’m interested in web Designing
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ajay2jam@gmail.com
+- 📫 How to reach me sanjayjaksr5378@gmail.com
 
 <!---
 JAKSR/JAKSR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
